@@ -50,6 +50,7 @@ public class Program {
 			System.out.println(String.format("%.2f", shape.area()));
 		}
 		
+		sc.close();
 	}
 
 }
